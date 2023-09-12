@@ -1,0 +1,7 @@
+Testes Funcionais:
+Testes Funcionais, são testes relacionados as funcionalidades do sistema, ou seja, como o sistema deve se comportar.
+Podendo ser testes relacionados aos "caminhos felizes", ou seja, quando o sistema está sendo utilizado da forma como ele foi feito para ser utilizado.
+
+Testes Funcionais:
+Testes Funcionais, são testes relacionados a "caminhos infelizes", ou seja, como o sistema deve se comportar quando ele não é utilizado da forma "correta".
+Como por exemplo: Divisão por 0, devendo retornar alguma mensagemm de valor inválido/erro, estipulado pelo próprio sistema.
